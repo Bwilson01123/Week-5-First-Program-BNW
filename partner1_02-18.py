@@ -41,3 +41,8 @@ else:
 
 # 15. Print a goodbye message
 print("alright thats it for today",name,"go do something else or something")
+
+'''
+No dcoumentation cause we them (know python)
+'''
+
